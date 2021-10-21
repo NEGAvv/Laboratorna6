@@ -45,4 +45,5 @@ int main()
 	else {
 		cout << "Result F = " << F << endl;
 	}
+	system("pause");
 }
