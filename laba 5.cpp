@@ -43,7 +43,7 @@ int main()
 		cout << "error\n";
 	}
 	else {
-		cout << "Result F = " << F << endl;
+		cout << "Result of F \n " << F << endl;
 	}
 	system("pause");
 }
