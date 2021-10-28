@@ -5,6 +5,7 @@
 using namespace std;
 int main()
 {
+	//Розв'язок завдання з циклом while
 	float minX = 1.5, maxX = 2.5, h = 0.1, x;
 	double y;
 	cout << "Input minX=1.5" << endl;
