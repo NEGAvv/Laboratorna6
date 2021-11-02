@@ -13,7 +13,7 @@ int main()
 	while (x <= maxX + h / 2)
 	{
 		y = (x * x * x) + 3 * sin(x * x) - 3;
-		cout << setw(4) << x << setw(10) << y << endl;
+		cout << setw(4) << x << setw(10) << y << endl;//табуляція
 		x += h;
 	}
 }
